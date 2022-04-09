@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notificaciones En Android</string>
+    <string name="create_notification">Crear notificación</string>
+    <string name="basic_channel_name">Notificación Básica</string>
+    <string name="basic_channel_description">Canal para notificaciones sencillas</string>
+    <string name="basic_channel_id">basic_channel</string>
+</resources>

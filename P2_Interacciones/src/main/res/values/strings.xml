@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Interacciones de notificaciones</string>
+    <string name="create_notification">Crear notificación</string>
+    <string name="basic_channel_name">Notificación Básica</string>
+    <string name="basic_channel_description">Canal para notificaciones sencillas</string>
+    <string name="basic_channel_id">basic_channel</string>
+    <string name="post_detail_title">Post</string>
+    <string name="post_big_text">Arrancamos esta guía viendo cómo crear notificaciones en Android.
+        Las notificaciones son elementos de UI que proveen información corta, oportuna y relevante
+        al usuario, cuando tu App no está en uso</string>
+    <string name="bookmarks">Marcadores: %1$d</string>
+    <string name="post2_big_text">En este segmento aprenderás
+        a manejar las interacciones de notificaciones en Android según las formas en que el usuario
+        puede tener interacciones con ellas.</string>
+</resources>
